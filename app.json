@@ -3,7 +3,7 @@
     "description": "Catbot is the Modified Version of WhatsAsena, Made By @Basilser with Baileys.",
     "logo": "https://i.imgur.com/54yVC4Q.jpg",
     "keywords": ["whatsapp", "catbot", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/itsmebasil0/catbot",
+    "repository": "https://github.com/kochu223/catbot",
     "website":   "https://github.com/itsmebasil0/catbot",
     "success_url": "https://github.com/itsmebasil0/catbot",
     "stack": "container",
